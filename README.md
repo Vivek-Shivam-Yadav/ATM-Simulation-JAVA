@@ -602,7 +602,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 📞 **Support & Contact**
 
-- 📧 **Email**: vieksy13@example.com
+- 📧 **Email**: viveksy13@example.com
 - 💬 **Issues**: [GitHub Issues](https://github.com/Vivek-Shivam-Yadav/atm-simulator-java/issues)
 
 ---
