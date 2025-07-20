@@ -592,7 +592,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ![Test Coverage](https://img.shields.io/badge/Test%20Coverage-95%25-green)
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Vivek Shivam Yadav]**
 
 ⭐ **Star this repo if you found it helpful!**
 
@@ -602,9 +602,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 📞 **Support & Contact**
 
-- 📧 **Email**: your.email@example.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/yourusername/atm-simulator/issues)
-- 📚 **Documentation**: [Wiki](https://github.com/yourusername/atm-simulator/wiki)
+- 📧 **Email**: vieksy13@example.com
+- 💬 **Issues**: [GitHub Issues](https://github.com/Vivek-Shivam-Yadav/atm-simulator-java/issues)
 
 ---
 
